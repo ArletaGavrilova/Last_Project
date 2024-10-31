@@ -6,8 +6,8 @@
 - Библиотека N
 
 ## Референсы, которые мне пригодятся
-- Референс 1
-- Референс N
+- Мой прошлый проект
+- Проекты по Дискорду в Кодланд
 
 ## Гайды-статьи, где есть полезная для меня информация
-Короткий комментарий, чтобы понимать про что статья ... [слово на котором будет ссылка](https://www.un.org/ru/un75/climate-crisis-race-we-can-win)(https://www.un.org/ru/climatechange/science/causes-effects-climate-change)
+Короткий комментарий, чтобы понимать про что статья ... [https://www.un.org/ru/climatechange/science/causes-effects-climate-change](https://www.un.org/ru/climatechange/science/causes-effects-climate-change)
