@@ -1,13 +1,9 @@
 ## Тип моего проекта:
 > Бот В Дискорде
 
-## Библиотеки, которые я буду использовать
-- Библиотека 1
-- Библиотека N
-
 ## Референсы, которые мне пригодятся
 - Мой прошлый проект
 - Проекты по Дискорду в Кодланд
 
 ## Гайды-статьи, где есть полезная для меня информация
-Короткий комментарий, чтобы понимать про что статья ... [https://www.un.org/ru/climatechange/science/causes-effects-climate-change](https://www.un.org/ru/climatechange/science/causes-effects-climate-change)
+[https://www.un.org/ru/climatechange/science/causes-effects-climate-change](https://www.un.org/ru/climatechange/science/causes-effects-climate-change)
